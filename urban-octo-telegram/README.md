@@ -4,14 +4,13 @@
 To help Horiseon Social Solution Services, Inc. with search engine optimization and increased accessiblity in regards to their website, I set forth to refractor the source code provided by the client. I was able to accomplish these tasks by adding descriptive title elements, utilizing semantic elements, and further consolidating and curating the associated style sheet.  I was also able to increase functionality by fixing a broken navigation link.
 
 ## Installation
-I cloned the clients source code to my own repository.  This can be viewed at
- https://github.com/barkleylikecharles/Code-Refractor.
+I cloned the clients source code to my own repository.  
 
 ## Usage
 This webpage offers descriptions of the services provided for Horiseon. The descriptive and alternate tags added make the sight accesible to screen readers and improve searchability.
 
 ## Credits
-Project completed by Nicole Barkley https://github.com/barkleylikecharles
+Project completed by Nicole Barkley
 
 ## License
 MIT License
